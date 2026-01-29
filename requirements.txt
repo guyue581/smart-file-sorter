@@ -1,0 +1,14 @@
+# 智能文件分拣工具依赖项
+
+
+# 主要依赖
+# ttkbootstrap - 用于美化Tkinter界面
+ttkbootstrap==1.10.0
+
+# 标准库（无需单独安装）
+# os, shutil, json, tkinter, pathlib, threading, datetime, typing
+
+# 安装命令：
+# pip install -r requirements.txt
+# 建议使用国内镜像源加速安装：
+# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
